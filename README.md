@@ -70,5 +70,3 @@ This project involves the design of an ECG detection circuit using Altium Design
 - Samroz Ahmad Shoaib
 
 ---
-
-This document was created based on the Altium PCB project workflow and component selection guidelines provided.
